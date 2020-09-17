@@ -7,7 +7,7 @@ Here lies Anki Vector's shared codes.
 Navigate through the directory, then type in the terminal
 `chmod +x hourly-alarm.py`
 
-Once done, type the commands below.
+Once done, do the next steps and save.
 ```
 crontab -e
 ```
