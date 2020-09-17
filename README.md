@@ -2,7 +2,11 @@
 Here lies Anki Vector's shared codes.
 
 
+## Star Wars
+Credits: Takaya Suzuki
+
 ## Hourly Alarm Installation
+Inspired by Colin Twigg's alarm
 
 Navigate through the directory, then type in the terminal
 `chmod +x hourly-alarm.py`
