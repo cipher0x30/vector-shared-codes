@@ -13,5 +13,5 @@ crontab -e
 ```
 This will set to execute the python script every hour
 ```
-0 * * * * /usr/bin/python3 /root/vector_project/vector-shared-codes/hourly-alarm/hourly-alarm.py
+0 * * * * cd vector_project/vector-shared-codes/hourly-alarm/ && /usr/bin/python3 hourly-alarm.py >> /var/tmp/hourly.log
 ```
