@@ -6,7 +6,7 @@ Here lies Anki Vector's shared codes.
 Credits: Takaya Suzuki
 
 ## Hourly Alarm Installation
-Inspired by Colin Twigg's alarm
+Inspired by Colin Twigg's alarm (https://github.com/RecognitionDesigns/Vector-Alarm-Clock)
 
 Navigate through the directory, then type in the terminal
 `chmod +x hourly-alarm.py`
